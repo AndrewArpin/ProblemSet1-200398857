@@ -1,0 +1,13 @@
+C:\Users\andre\source\repos\problemset1\bin\Debug\netcoreapp3.1\problemset1.exe
+C:\Users\andre\source\repos\problemset1\bin\Debug\netcoreapp3.1\problemset1.deps.json
+C:\Users\andre\source\repos\problemset1\bin\Debug\netcoreapp3.1\problemset1.runtimeconfig.json
+C:\Users\andre\source\repos\problemset1\bin\Debug\netcoreapp3.1\problemset1.runtimeconfig.dev.json
+C:\Users\andre\source\repos\problemset1\bin\Debug\netcoreapp3.1\problemset1.dll
+C:\Users\andre\source\repos\problemset1\bin\Debug\netcoreapp3.1\problemset1.pdb
+C:\Users\andre\source\repos\problemset1\obj\Debug\netcoreapp3.1\problemset1.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\problemset1\obj\Debug\netcoreapp3.1\problemset1.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\problemset1\obj\Debug\netcoreapp3.1\problemset1.AssemblyInfo.cs
+C:\Users\andre\source\repos\problemset1\obj\Debug\netcoreapp3.1\problemset1.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\problemset1\obj\Debug\netcoreapp3.1\problemset1.dll
+C:\Users\andre\source\repos\problemset1\obj\Debug\netcoreapp3.1\problemset1.pdb
+C:\Users\andre\source\repos\problemset1\obj\Debug\netcoreapp3.1\problemset1.genruntimeconfig.cache
